@@ -1,0 +1,26 @@
+# Basic
+jupyterlab-git
+ipykernel>=5
+ipython>=7
+ipython-genutils>=0.2
+ipywidgets>=7
+jupyter>=1
+jupyter-client>=6
+jupyter-console>=6
+jupyter-core>=4.6
+jupyterlab>=2
+jupyterlab-server>=1
+matplotlib>=3
+notebook>=6
+numpy>=1.18
+pandarallel>=1.4
+pandas>=1.0
+python-dotenv
+scipy>=1.4
+seaborn>=0.10
+tqdm>=4
+widgetsnbextension>=3.5
+
+# Functionnal
+xlrd>=1.0
+torch
