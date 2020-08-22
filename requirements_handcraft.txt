@@ -24,3 +24,4 @@ widgetsnbextension>=3.5
 # Functionnal
 xlrd>=1.0
 torch
+statsmodels
