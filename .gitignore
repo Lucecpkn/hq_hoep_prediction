@@ -99,5 +99,8 @@ target/
 # Large pretrained model
 models/pretrained/*/
 
+# Model
+/models/
+
 # Others
 .lsp_symlink/
